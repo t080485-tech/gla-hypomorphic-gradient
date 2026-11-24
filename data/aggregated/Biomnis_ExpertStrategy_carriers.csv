@@ -1,0 +1,10 @@
+POS,REF_x,ALT,ID_x,gla_effect,gla_hgvsc,gla_hgvsp,clinvar_CLNSIG,gnomADex_AC,gnomADex_AF,gnomADex_revel_max,gnomADex_spliceai_ds_max,dbNSFP_CADD_phred,dbNSFP_AlphaMissense_pred,NEPHRO_raw,CARDIO_raw,AUTRE_raw,NA_raw,TOT_raw,NEPHRO_dedup,CARDIO_dedup,AUTRE_dedup,NA_dedup,TOT_dedup,NEPHRO_ill,CARDIO_ill,AUTRE_ill,NA_ill,TOT_ill,NEPHRO_mgi,CARDIO_mgi,AUTRE_mgi,NA_mgi,TOT_mgi,in_ModelA_gnomAD,in_ModelB_gnomAD,in_ModelC_gnomAD,in_ExpertStrategy_Biomnis,in_ModelC_Biomnis
+101398011,C,T,rs111422676;222141,missense_variant,c.1088G>A,p.Arg363His,Conflicting_classifications_of_pathogenicity,17,1.55109E-5,0.437,0.0,11.78,"B,B",1,0,2,0,3,1,0,2,0,3,1,0,2,0,3,0,0,0,0,0,True,True,False,True,False
+101398012,G,A,rs797044776;198401,missense_variant,c.1087C>T,p.Arg363Cys,Pathogenic/Likely_pathogenic,10,9.12371E-6,0.532,0.0,18.43,"B,B",0,0,1,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,True,True,True,True,True
+101398024,TCTC,T,180844,conservative_inframe_deletion,c.1072_1074delGAG,p.Glu358del,Pathogenic/Likely_pathogenic,.,.,.,.,.,.,0,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,False,False,False,True,True
+101398074,C,T,10742,missense_variant,c.1025G>A,p.Arg342Gln,Pathogenic,.,.,.,.,26.0,"A,A",1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,True,True,True,True,True
+101398942,T,C,rs28935197;10730,missense_variant,c.644A>G,p.Asn215Ser,Pathogenic,38,3.48666E-5,0.72,0.03,22.7,"B,B",2,1,0,0,3,2,1,0,0,3,2,1,0,0,3,0,0,0,0,0,True,True,True,True,True
+101399747,C,T,10768,intron_variant,c.640-801G>A,.,Conflicting_classifications_of_pathogenicity,.,.,.,.,0.0,.,0,0,2,0,2,0,0,1,0,1,0,0,2,0,2,0,0,0,0,0,False,True,False,True,False
+101400759,T,C,rs398123211;92554,splice_acceptor_variant&intron_variant,c.548-2A>G,.,Pathogenic,0,0.0,.,0.83,27.0,".,.",0,0,2,0,2,0,0,1,0,1,0,0,2,0,2,0,0,0,0,0,False,False,False,True,True
+101403845,C,T,rs372966991;195028,missense_variant,c.335G>A,p.Arg112His,Pathogenic/Likely_pathogenic,20,1.82226E-5,0.969,0.0,27.4,"B,B",0,0,2,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,True,True,True,True,True
+101403846,G,A,92550,missense_variant,c.334C>T,p.Arg112Cys,Pathogenic,.,.,.,.,29.0,"A,A",1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,False,False,False,True,True

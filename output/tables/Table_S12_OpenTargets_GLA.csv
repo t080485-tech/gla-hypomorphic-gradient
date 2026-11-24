@@ -1,0 +1,11 @@
+Disease,EFO/MONDO,Overall score,Genetic association,Clinical,Literature
+Fabry disease,MONDO_0010526,0.894,0.956,0.941,0.689
+Cardiomyopathy,MONDO_0004994,0.6,0.828,,0.27
+Hypertrophic cardiomyopathy,MONDO_0005045,0.513,0.806,,0.207
+Kidney failure,MONDO_0001106,0.465,0.76,,0.088
+Familial hypertrophic cardiomyopathy,MONDO_0024573,0.443,0.73,,
+Stroke disorder,MONDO_0005098,0.374,,,0.157
+Acute kidney injury,MONDO_0002492,0.372,,,0.086
+Ischemic stroke,MONDO_1060198,0.371,,,0.053
+Cerebral small vessel disease,EFO_0008493,0.371,,,0.045
+Cystic kidney disease,MONDO_0002473,0.37,,,0.012

@@ -1,0 +1,19 @@
+# Controlled-access / patient-level / raw diagnostic files (NEVER commit)
+*.local.xlsx
+*.tsv
+*GENOTYPES*
+*HET_COMP*
+*Fabry_T1*
+*Fabry_T3*
+data/controlled/
+
+# Manuscript drafts & temporary files
+*.docx
+*.pdf
+*.tmp
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.venv/
+venv/
